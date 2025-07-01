@@ -1,0 +1,18 @@
+.a_class {
+  background-color: #f1a7b2;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#one_id {
+  color: #0505ef;
+  font-size: 36px;
+}
+
+.larger_font {
+  font-size: 24px;
+}
+
+#bold {
+  background-color: #93de93;
+  font-weight: bold;
+}
